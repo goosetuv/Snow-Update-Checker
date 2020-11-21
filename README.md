@@ -16,3 +16,6 @@ Download the latest release and run!
 
 ## Contributing
 Happy for anyone to make a pull request to assist in making the application better.
+
+## Legal Notice
+This software is 3rd party and is no way officially endorsed or affiliated with Snow Software.  The Snow Software name and image are copyright Snow Software AB.
