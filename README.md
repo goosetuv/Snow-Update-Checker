@@ -17,7 +17,7 @@ Download the latest release and run!
 ## System Requirements
 
 - .NET Framework 4.7
-- Access to (https://snwapi.com)[snwapi.com] (proxy bypass, firewall rule change etc. may be required)
+- Access to [https://snwapi.com](snwapi.com) (proxy bypass, firewall rule change etc. may be required)
 
 ## Contributing
 Happy for anyone to make a pull request to assist in making the application better.
