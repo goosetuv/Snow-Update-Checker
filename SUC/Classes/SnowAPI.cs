@@ -1,9 +1,5 @@
 ﻿using RestSharp;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SUC.Classes
 {
@@ -11,7 +7,7 @@ namespace SUC.Classes
     {
         public IRestResponse GetData(string type = "xml")
         {
-            var client = new RestClient("https://ext.laim.scot/snowapi/api/1.0/?format=" + type)
+            var client = new RestClient("https://snwapi.com/api/1.0?format=" + type)
             {
                 Timeout = -1
             };
