@@ -4,6 +4,9 @@ Windows Application that allows you to check the product versions of multiple sn
 
 ---
 
+# NOTICE
+This application no longer works as of July 2022 as I need to migrate it to v2.0 of the SNWAPI, however I do not currently have time.
+
 ## Installation
 
 Download the latest release and run!
